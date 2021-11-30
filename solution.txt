@@ -2,4 +2,4 @@ opening command stroke
 creating branch branch1234567
 rewriting numbers.txt
 commiting and pushing these commit
- translated to the English
+translated to the English
