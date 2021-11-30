@@ -1,7 +1,5 @@
-first create a directory using the mkdir command
- download the git to the directory
- create a text file with the required data
- commit data
- check git status
- create a sjlution.sh file to show my moves during creation
+opening command stroke
+creating branch branch1234567
+rewriting numbers.txt
+commiting and pushing these commit
  translated to the English
