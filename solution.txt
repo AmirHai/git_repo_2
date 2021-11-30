@@ -4,3 +4,4 @@ first create a directory using the mkdir command
  commit data
  check git status
  create a sjlution.sh file to show my moves during creation
+ translated to the English
