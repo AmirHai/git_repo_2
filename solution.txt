@@ -1,5 +1,9 @@
 opening command stroke
-creating branch branch1234567
-rewriting numbers.txt
-commiting and pushing these commit
-translated to the English
+opening main branch
+merging branch1234567 into main
+see results
+merging branch45678790 into main
+see new results
+in first merge I changed 2 files but in second merge i changed 1 file
+because branch4567890 created after creating branch1234567
+open browser and commit changes
